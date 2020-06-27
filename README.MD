@@ -1,5 +1,5 @@
 # Loan Calculator
-Loan Calculator is a Vanilla Javascript demonstration, with complex math. 
+Loan Calculator is a Vanilla Javascript demonstration, with financial math equations. 
 
 ## Deployed
 https://cooperpear.github.io/Loan-Calculator/
@@ -16,7 +16,7 @@ Functionality (More calculations)
 Cooper Pearson
 
 ## Screenshots
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Home](https://github.com/cooperpear/Loan-Calculator/blob/master/Loan-Calculator.png?raw=true "Home")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
